@@ -25,7 +25,7 @@ public class TestSort
 	@Test
 	public void testArraySort()
 	{
-		for (int i = 0; i < 100; i++)
+		for (int i = 0; i < 1000; i++)
 		{
 			// Generate random array
 			int[] arr = generateRandomArray();
